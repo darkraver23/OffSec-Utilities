@@ -5,7 +5,7 @@ This repository is a comprehensive collection of cybersecurity-related reference
 ## Overview
 The repository serves as a supplemental material provider to several books, video courses, and live training. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing their skills.
 
-## Key Areas of Focus
+## Key Areas of Focus 
 
 - **Ethical Hacking Techniques**: Guidance on building your hacking environment, learning offensive security techniques, bug bounties, vulnerability research, and exploit development.
 
