@@ -4,7 +4,7 @@ In the domain of cybersecurity, controlling who can access certain resources in 
 
 ## What is Attribute-Based Access Control (ABAC)?
 
-Attribute-Based Access Control (ABAC) is an access control model that evaluates attributes (or characteristics) of the user, the resource to be accessed, and the context of the access request to make authorization decisions. Unlike traditional models that rely on predefined roles or groups (like Role-Based Access Control - RBAC), ABAC uses policies that can evaluate multiple attributes, providing a more granular and flexible approach to access control.
+Attribute-Based Access Control (ABAC) is an access control model that evaluates attributes (or characteristics) of the user, the resource to be accessed, and the context of the access request to make authorization decisions. Unlike traditional models that rely on predefined roles or groups (like Role-Based Access Control - RBAC), ABAC uses policies that can evaluate multiple attributes, providing a more granular and flexible approach to access control.  
 
 ### Key Components of ABAC:
 
