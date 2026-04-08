@@ -2,10 +2,10 @@
 
 This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources.
 
-## Overview
+## Overview  
 The repository serves as a supplemental material provider to several books, video courses, and live training. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing their skills.
 
-## Key Areas of Focus
+## Key Areas of Focus 
 
 - **Ethical Hacking Techniques**: Guidance on building your hacking environment, learning offensive security techniques, bug bounties, vulnerability research, and exploit development.
 
@@ -20,7 +20,7 @@ The repository serves as a supplemental material provider to several books, vide
 ## How to Use
 You can clone this repository or download specific resources to deepen your understanding in the aforementioned areas. For detailed explanations and practical applications, refer to the books, video courses, and training by Omar Santos.
 
-## Contributing
+## Contributing  
 If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
